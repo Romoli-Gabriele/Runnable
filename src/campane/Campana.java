@@ -22,7 +22,7 @@ public class Campana implements Runnable{
     public void run() {
         for(int i = 0; i<volte; i++){
         
-        System.out.println((volte+1)+suono);
+        System.out.println(/*(volte+1)*/+suono+" dun");
         }
     }
     
